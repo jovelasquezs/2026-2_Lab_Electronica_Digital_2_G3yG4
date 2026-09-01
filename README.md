@@ -1,5 +1,5 @@
 # Laboratorio de Electrónica Digital II G3 Y G4
-**Semestre 2026-1**
+**Semestre 2026-2**
 
 Repositorio oficial del curso **Laboratorio de Electrónica Digital II**, asociado a la asignatura de Electrónica Digital II.  
 Aquí se publicarán guías, lineamientos, cronograma y material de apoyo para el desarrollo de las prácticas de laboratorio.
@@ -40,13 +40,13 @@ Adicionalmente, se integrará el uso de **GitHub Classroom** como herramienta de
 ## Docente de laboratorio
 
 **Docente:**  
-*David Orlando Briceño González*  
+*Jose Manuel Velasquez Sotelo*  
 Ingeniero Electrónico  
-Correo institucional: *dbriceno@unal.edu.co*  
+Correo institucional: *jovelasquezs@unal.edu.co*  
 
 **Grupos:**  
-- Grupo G3 – *Jueves de 14:00 a 16:00*  
-- Grupo G4 – *Viernes de 14:00 a 16:00*  
+- Grupo G3 – *Viernes de 14:00 a 16:00*  
+- Grupo G4 – *Miercoles de 14:00 a 16:00*  
 
 ---
 
@@ -79,15 +79,14 @@ Cada práctica deberá incluir:
 El cronograma detallado de prácticas será publicado y actualizado en este repositorio.  
 Cada laboratorio contará con su respectiva guía y fecha de entrega asociada.
 
-| Semana | Nombre                          | Guía  | Entrega (GitHub Classroom) | Deadline   |
-| ------ | ------------------------------- | ----- | -------------------------- | ---------- |
-| 1-3    | Lab 00 - Algoritmia e instalación de herramientas básicas| [lab00](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_2_G3yG4/tree/main/labs/lab00) | [Link](https://classroom.github.com/a/ZqcGp0Tz)       | 27/Feb/2026 |
-| 4-5    | Lab01 - FPGA, Multiplicador y ASM     | [lab01](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_2_G3yG4/tree/main/labs/lab01)| [Link](https://classroom.github.com/a/c2Iw0pSf) | 25/Abr/2026 |
-| 6-7    | Lab02 - ALU                     | [lab02](http://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_2_G3yG4/tree/main/labs/lab02) | [Link](https://classroom.github.com/a/T1DhGa3F)       | 25/Abr/2026 |
-| 8-9    | Lab03 - ALU y banco registro    | [lab03](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_2_G3yG4/tree/main/labs/lab03) | [Link](https://classroom.github.com/a/weduUzP3)      | 9/May/2026 |
-| 11-14  | Lab04 - Procesador Block Design | [lab04](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_2_G3yG4/tree/main/labs/lab04) | [Link](https://classroom.github.com/a/V1Z0hRrl)      | 23/May/2026 |
-| 15-16  | Informe Proyecto final                  | [Guía](labs/proyecto_final/README.md)     | [Link](https://classroom.github.com/a/4ss95J5A) | 09/Jun/2026 |
-| 15-16  | Rúbricas de auto y co evaluación (Subir en PDF)                  | [Enlaces](labs/rubricas_evaluacion)     | [Link](https://classroom.github.com/a/SYuvltky) | 09/Jun/2026 |
+| Semana | Nombre                          | Guía  | Deadline   |
+| ------ | ------------------------------- | ----- | ---------- |
+| 1-2    | Lab 00 - Algoritmia e instalación de herramientas básicas| [lab00]() | 20/Sep/2026 |
+| 3-4    | Lab01 - FPGA, Multiplicador y ASM     | [lab01]()| 04/Oct/2026 |
+| 5-6    | Lab02 - ALU                     | [lab02]()      | 18/Oct/2026 |
+| 7-8    | Lab03 - ALU y banco registro    | [lab03]() | 01/Nov/2026 |
+| 10-13  | Lab04 - Procesador Block Design | [lab04]() | 06/Dic/2026 |
+| 14-15  | Informe Proyecto final                  | [Guía]()     | 13/Dic/2026 |
 
 
 ---
@@ -95,12 +94,13 @@ Cada laboratorio contará con su respectiva guía y fecha de entrega asociada.
 ## Entregables y documentación
 
 - Cada práctica se documentará mediante un **informe técnico**.
-- El informe deberá realizarse en el archivo **`README.md`** del repositorio asignado por **GitHub Classroom**, usando formato **Markdown**.
+- El informe deberá realizarse en el archivo **`README.md`** del repositorio creado por cada equipo de trabajo, usando formato **Markdown**.
 - El repositorio podrá incluir:
   - Código HDL.
   - Diagramas y esquemas.
   - Resultados de simulación.
   - Archivos adicionales solicitados en la guía.
+- El enlace de cada repositorio se debera enviar en cada entrega asignada en el classroom del curso y solo se evaluaran los avances hasta la fecha establecida.
 
 Es fundamental respetar la estructura y las indicaciones definidas en cada plantilla.
 
@@ -114,10 +114,7 @@ La evaluación del Laboratorio de Electrónica Digital II se realizará con base
 
 ### Asistencia
 
-La aprobación del laboratorio requiere un **mínimo del 90 % de asistencia**.
-
-- El laboratorio cuenta con **16 sesiones** presenciales.
-- A partir de la **segunda inasistencia**, la **nota máxima** que el estudiante podrá obtener en el laboratorio será **2.9**, independientemente de los resultados académicos obtenidos en las prácticas o el proyecto final.
+- A partir de la **segunda inasistencia no justificada**, la **nota máxima** que el estudiante podrá obtener en el laboratorio será de **2.9**, independientemente de los resultados académicos obtenidos en las prácticas o en el proyecto final.
 
 ---
 
@@ -208,14 +205,14 @@ Se valorará positivamente la inclusión de **mejoras, optimizaciones o análisi
 
 ### 🌐 Control de versiones
 - Git  
-- GitHub / GitHub Classroom  
+- GitHub
 
 ---
 
 ## Canales de comunicación
 
-- **Correo institucional:** *dbriceno@unal.edu.co*  
-- Anuncios oficiales a través de GitHub Classroom.
+- **Correo institucional:** *jovelasquezs@unal.edu.co*  
+- Anuncios oficiales a través de Google Classroom.
 
 ---
 
@@ -223,4 +220,3 @@ Se valorará positivamente la inclusión de **mejoras, optimizaciones o análisi
 - [Curso Verilog y FPGA en Youtube](https://www.youtube.com/watch?v=GLfnmc4Vv5U&list=PLIyIZGa1sAZqeQJ6Y02b7O8HV0gK25zc2)
 - [Instalación Linux + Windows dualboot en el mismo disco](https://www.youtube.com/watch?v=wIj7sHK0SkQ)
 - [Instalación Linux + Windows en discos diferentes, tenga mucho cuidado](https://www.youtube.com/watch?v=KWVte9WGxGE)
-- [Curso en Coursera de verilog y HDL, primero debe solicitar el acceso al convenio al correo coursera@unal.edu.co](https://www.coursera.org/programs/coursera-para-la-universidad-nacional-de-colombia-ji3sj/learn/fpga-hardware-description-languages?source=search#modules)

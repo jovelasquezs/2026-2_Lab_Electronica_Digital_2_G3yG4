@@ -373,4 +373,3 @@ Todos los archivos deben ser cargados en el repositorio asignado en **GitHub Cla
 - [Video ¿Qué es una máquina de estados y cómo se escriben en verilog?](https://www.youtube.com/watch?v=tzxaf-CNU3Q)
 - [Video ¿Cómo escribir una FSM en verilog?](https://www.youtube.com/watch?v=ENH-8zZLbK8&list=PLewEhUg0vlYzLnNKIO6SEWh91uAgBw5K8)
 - [Video Semáforo avanzado análisis y verilog](https://www.youtube.com/watch?v=77OjVgGVmSs)
-
