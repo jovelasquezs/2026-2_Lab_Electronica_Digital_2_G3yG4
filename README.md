@@ -81,12 +81,12 @@ Cada laboratorio contará con su respectiva guía y fecha de entrega asociada.
 
 | Semana | Nombre                          | Guía  | Deadline   |
 | ------ | ------------------------------- | ----- | ---------- |
-| 1-2    | Lab 00 - Algoritmia e instalación de herramientas básicas| [lab00]() | 20/Sep/2026 |
-| 3-4    | Lab01 - FPGA, Multiplicador y ASM     | [lab01]()| 04/Oct/2026 |
-| 5-6    | Lab02 - ALU                     | [lab02]()      | 18/Oct/2026 |
-| 7-8    | Lab03 - ALU y banco registro    | [lab03]() | 01/Nov/2026 |
-| 10-13  | Lab04 - Procesador Block Design | [lab04]() | 06/Dic/2026 |
-| 14-15  | Informe Proyecto final                  | [Guía]()     | 13/Dic/2026 |
+| 1-2    | Lab 00 - Algoritmia e instalación de herramientas básicas| [lab00](https://github.com/jovelasquezs/2026-2_Lab_Electronica_Digital_2_G3yG4/tree/99a44ca5e42941f942e894620f3b033788197b8e/labs/lab00) | 20/Sep/2026 |
+| 3-4    | Lab01 - FPGA, Multiplicador y ASM     | lab01| 04/Oct/2026 |
+| 5-6    | Lab02 - ALU                     | lab02      | 18/Oct/2026 |
+| 7-8    | Lab03 - ALU y banco registro    | lab03 | 01/Nov/2026 |
+| 10-13  | Lab04 - Procesador Block Design | lab04 | 06/Dic/2026 |
+| 14-15  | Informe Proyecto final                  | Guía     | 13/Dic/2026 |
 
 
 ---
