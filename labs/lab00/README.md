@@ -167,7 +167,7 @@ Diseñar un sistema secuencial que acumula un valor de entrada durante varios ci
 - Incluir una señal de cancelación.
 
 
-### 3.3 Ejercicio 3 (Grupal): Diseño y simulación de una ASM completa (Control + Datapath)
+### 3.3 Ejercicio 3 (Grupal): Diseño y simulación de una ASM completa (Control + Datapath) (BONO)
 
 En este ejercicio se implementará un sistema secuencial que permita comprender el funcionamiento de una **Máquina de Estados Algorítmica (ASM)** en su forma completa, integrando:
 
