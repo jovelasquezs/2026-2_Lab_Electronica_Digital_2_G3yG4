@@ -85,8 +85,8 @@ Cada laboratorio contará con su respectiva guía y fecha de entrega asociada.
 | 3-4    | Lab01 - FPGA, Multiplicador y ASM     | [lab01](https://github.com/jovelasquezs/2026-2_Lab_Electronica_Digital_2_G3yG4/tree/c399f7cf5ea67687f09072e6198d7571c03dd918/labs/lab01)| 04/Oct/2026 |
 | 5-6    | Lab02 - ALU                     | [lab02](https://github.com/jovelasquezs/2026-2_Lab_Electronica_Digital_2_G3yG4/tree/db706d4b6f3615106dba51e789e91fb7765ba141/labs/lab02)      | 18/Oct/2026 |
 | 7-8    | Lab03 - ALU y banco registro    | [lab03](https://github.com/jovelasquezs/2026-2_Lab_Electronica_Digital_2_G3yG4/tree/f0cfe2640e331acf06bf776c935921be90d14fff/labs/lab03) | 01/Nov/2026 |
-| 10-13  | Lab04 - Procesador Block Design | lab04 | 06/Dic/2026 |
-| 14-15  | Informe Proyecto final                  | Guía     | 13/Dic/2026 |
+| 9-11  | Lab04 - Procesador Block Design | [lab04](https://github.com/jovelasquezs/2026-2_Lab_Electronica_Digital_2_G3yG4/tree/56b576b17f00c975fa8e284c3f50b7daae54afed/labs/lab04) | 22/Nov/2026 |
+| 12-15  | Informe Proyecto final                  | Guía     | 13/Dic/2026 |
 
 
 ---
